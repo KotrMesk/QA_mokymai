@@ -31,6 +31,15 @@ namespace DemoKintamieji
             char simbolis = 'k';
             // char suma duoda ascii verciu suma
             Console.WriteLine(simbolis);
+
+            //trukmeniniai skaiciai
+            float skaicius0 = 0;
+            float skaicius1 = 0.0f; // lfoat gal reikia nurodyti 'f'
+            double skaicius2 = 0.0d; //double - 'd'
+            double skaicius3 = 0.0;
+            decimal skaicius4 = 0;
+            decimal skaicius5 = 0.0; //decimal - 'm'
+            
         }
     }
 }
