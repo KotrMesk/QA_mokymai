@@ -27,6 +27,10 @@ namespace DemoKintamieji
             Console.WriteLine();
 
             //paprastiems tipams rekomenduojama nenaudoti var
+
+            char simbolis = 'k';
+            // char suma duoda ascii verciu suma
+            Console.WriteLine(simbolis);
         }
     }
 }
