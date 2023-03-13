@@ -12,9 +12,11 @@ namespace DemoSarasai
         {
             //list:
             //List<tipas> pavadinimas = new List<int>();
-            List<string> zodziai = new List<string>();
+            List<string> zodziai = new List<string>(); //{} naudoti kad jame reiksmes sudeti
             zodziai.Add("Labas");
             Console.WriteLine(zodziai[0]);
+
+            
         }
     }
 }
